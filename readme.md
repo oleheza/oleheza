@@ -2,9 +2,11 @@
 
 :technologist: Native Android and Flutter developer;
 
+:desktop_computer: Languages: Kotlin, Dart, Java;
+
 :memo: Learning Kotlin Multiplatform Mobile;
 
-:soccer: In spare time play football and :basketball: basketball ,:book: read books.
+:soccer: In spare time play football and :basketball: basketball ,:book: and read books.
 
 # My Github Stats
 
